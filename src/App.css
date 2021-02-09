@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.photoStyle{
+  width: 300px;
+  height: 300px;
+  border: 5px solid royalblue;
+}
+.display{
+  display: flex;
+  justify-content: center;
+ 
+}
+
